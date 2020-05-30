@@ -1,0 +1,45 @@
+<style>
+html{}
+		@media (max-width:576px){
+	.btn-outline-light{	width:100%;
+	}
+	.punch1,.punch2,.punch3,.punch4,.punch5 img{
+		display:none;	
+	}
+	.navbar-brand{
+		border:ridge 10px red;
+margin:0 50px 7px 50px;
+	}
+	.navbar-brand img{
+	width:400px;
+	height:400px;
+	}}
+.navbar-brand {margin-left:70px;}
+.punch{
+			padding:0px;
+ display: -webkit-flex;
+  display: flex;
+}
+.punch img{
+	height:50px;
+	width:50px;
+}
+.intro{
+	margin:0 auto;
+	margin-top:50px;
+ font-family: "Times New Roman", Times, serif;
+}
+.table1{
+	  font-family: Impact;
+ border:ridge 1px yellow;
+}
+.table1 td{
+	padding-left:30px;
+}
+.table1 th{
+	padding:30px;
+}
+.navbar-header{position: fixed; left:auto;}
+
+
+</style>
